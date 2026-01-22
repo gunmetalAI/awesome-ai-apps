@@ -10,7 +10,7 @@
 
 This repository is a comprehensive collection of **70+ practical examples, tutorials, and recipes** for building powerful LLM-powered applications. From simple chatbots to advanced AI agents, these projects serve as a guide for developers working with various AI frameworks and tools.
 
-## 📋 Table of Contents
+## 📋 Table of Contents: 
 
 - [🎓 Courses](#-courses)
 - [🚀 Featured AI Apps](#-featured-ai-apps)
