@@ -185,6 +185,7 @@ Interested in sponsoring this project? Feel free to reach out!
 ### 🪶 Simple Agents
 
 **Straightforward, practical use-cases for everyday AI applications.** _13 projects_
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 
 - [Agno AI Examples](simple_ai_agents/agno_ai_examples) - Simple to multi-agent examples with web search & knowledge base
 - [Finance Agent](simple_ai_agents/finance_agent) - Real-time stock & market data tracking agent
